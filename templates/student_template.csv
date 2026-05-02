@@ -1,0 +1,6 @@
+First Name,Last Name,Middle Name,Email,Matric Number,Gender,Date of Birth,Phone,Address,State of Origin,Nationality,Admission Date,Admission Type,Program,Level,Student Status
+John,Doe,Smith,john.doe@alqalam.edu,ALQ/2024/001,Male,2000-01-15,08012345678,"123 Main Street, Kaduna",Kaduna,Nigeria,2024-09-01,UTME,Computer Science,100 Level,Active
+Jane,Smith,,jane.smith@alqalam.edu,ALQ/2024/002,Female,2001-03-20,08023456789,"456 Oak Avenue, Kano",Kano,Nigeria,2024-09-01,Direct Entry,Electrical Engineering,200 Level,Active
+Michael,Johnson,Brown,michael.j@alqalam.edu,ALQ/2024/003,Male,1999-07-12,08034567890,"789 Pine Road, Abuja",Abuja,Nigeria,2024-09-01,UTME,Business Administration,100 Level,Active
+Sarah,Williams,,sarah.w@alqalam.edu,ALQ/2024/004,Female,2000-11-25,08045678901,"321 Elm Street, Lagos",Lagos,Nigeria,2024-09-01,Transfer,Medicine,300 Level,Active
+David,Brown,Lee,david.b@alqalam.edu,ALQ/2024/005,Male,2001-05-18,08056789012,"654 Maple Avenue, Port Harcourt",Rivers,Nigeria,2024-09-01,UTME,Law,100 Level,Active
